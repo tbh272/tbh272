@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Unreal Engine/Godot Developer<br>- 📚 I'm currently learning Git (yikes)<br>- ⚡ In my free time I code, but I also enjoy a nice chai here and there</p>
+<p align="left">I'm TBH from USA <br><br>- 🔭 I’m working as Unreal Engine/Godot Developer<br>- 📚 I'm currently learning Git (yikes)<br>- ⚡ In my free time I code, but I also enjoy a nice chai here and there</p>
 
 ###
 
