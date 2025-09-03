@@ -43,7 +43,7 @@ Here are a few things I’ve been working on:
 
 ## 🌟 Why I Code
 
-Game development is my way of blending creativity and tech to build worlds where players can escape, explore, and conquer. Whether it’s tweaking a character’s jump arc or designing an enemy’s patrol path, I love the challenge of making every detail just right.
+Game development is my hobby away from work. While I want to start a career in this field, and be one of the cool people in big projects, I also know that high level stress comes along with it especially if your making a game with an open world. I might love the challenge, not the burnout as we can probably all agree on.
 
 ---
 
