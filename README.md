@@ -10,7 +10,7 @@
 
 Hey there! I'm **TBH**, a passionate developer from the **USA**, currently crafting code in the wilds of **Wyoming** 🌄. I’m all about creating immersive experiences with **Unreal Engine** and **Godot**, and I’m always tinkering with new ideas to bring games to life.
 
-- 🔭 **Currently working as**: An Unreal Engine and Godot Developer, building worlds one node at a time.
+- 🔭 **Currently working as**: An Unreal Engine and Godot Developer.
 - 📚 **Learning journey**: Diving deep into **Git** (yep, it’s a wild ride!) and exploring advanced game dev techniques.
 - ⚡ **When I’m not coding**: You’ll find me drinking **chai**, brainstorming game mechanics.
 - 💬 **Fun fact**: I believe creating free templates for people to use is better than 20+ videos!
